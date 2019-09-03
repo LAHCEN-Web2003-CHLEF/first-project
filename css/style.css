@@ -1,0 +1,53 @@
+*{
+    padding: 0px; 
+    margin: 0px;
+}
+.header{
+    background-image: url(ooo.jpg);
+    height: 110vh;
+}
+.Img{
+    display: inline-block;
+    
+}
+.div{
+    display: inline-block;
+    
+}
+.mess{
+    float: right;
+    padding-right:  40px;
+    margin-top: -50px;
+    margin-top: -40px;
+}
+.mess li{
+    display: inline-block;
+    padding: 25px;
+    
+    margin-top: -16px;
+}
+.mess li a{
+    text-decoration: none;
+
+}
+.h{
+    font-family: cursive; color: white; letter-spacing: 1px; text-shadow: 2px 2px 2px; font-size: 20px;
+}
+.h:hover{
+    color: deepskyblue;
+}
+.class{
+     padding-top: 5vh;
+    padding-bottom: 7vh;
+    
+    border-radius: 30px;
+    
+   background-image:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.3)), url(images.jpeg); background-size: cover;
+    opacity: 20%;
+position: absolute;
+    left:440px;
+    right: 500px;
+    top: 140px;
+    height: 280px;
+    width: 500px;
+    padding-bottom: -13vh;}
